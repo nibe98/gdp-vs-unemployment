@@ -12,7 +12,7 @@ This project explores the relationship between GDP and unemployment across count
   - Calculating GDP growth and changes in unemployment
   - Correlation analysis to test Okun’s Law
 
-## 📂 Repository Structure
+## Repository Structure
 ```
 ├── README.md # Project overview
 ├── data/ # Raw data 
