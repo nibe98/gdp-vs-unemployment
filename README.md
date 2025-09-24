@@ -16,4 +16,4 @@ This project explores the relationship between GDP and unemployment across count
 ```
 ├── README.md # Project overview
 ├── data/ # Raw data 
-├── jupyter-notebook.ipynb #jupyter notebook
+├── jupyter-notebook.ipynb # notebook
